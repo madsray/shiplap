@@ -9,7 +9,7 @@
 }
 img{
   padding: 0px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 
 
 }
@@ -28,5 +28,29 @@ transform: translateX(0);
 }
 #shiplap{
   width: 50%;
-  margin-top: 20%;
+  margin-top: 10%;
+}
+/* .succulent{
+  margin-top: 10%;
+  width: 1000px;
+  height: 1000px;
+}
+.theImg:hover{
+  display: none;
+  border: 3px solid black;
+} */
+button{
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+
+}
+button:hover{
+  background-color: gray;
+  color: white;
+}
+#buttons{
+  display: block;
+  text-align: center;
+
 }
